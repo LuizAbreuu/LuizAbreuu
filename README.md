@@ -18,13 +18,12 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 ## 🗄️ Bancos de Dados: 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,sqlserver)](https://skillicons.dev)
+
 ## ⚙️ Ferramentas:
 [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,docker)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
-
-[![Linkedin: Luiz Abreu](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizmullercostadeabreu/)](https://www.linkedin.com/in/luizmullercostadeabreu/)
-
+[![Linkedin: Luiz Abreu](https://img.shields.io/badge/-LuizAbreu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizmullercostadeabreu/)](https://www.linkedin.com/in/luizmullercostadeabreu/)
 
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
