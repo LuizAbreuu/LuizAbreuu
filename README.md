@@ -2,7 +2,7 @@
 
 ## 💼 Perfil Profissional
 
-- 💻 Estudante de Programação
+- 💻 Estudante de Programação( mesmo formado precisamos continuar estudando :D )
 - 🌱 Apaixonado por Tecnologia
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas / Unip 
 
