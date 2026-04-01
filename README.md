@@ -3,7 +3,7 @@
 ## 💼 Perfil Profissional
 
 - 💻 Estudante de Programação( mesmo formado precisamos continuar estudando )
-- 🌱 Apaixonado por Tecnologia
+- 🌱 Tenho aquela afinidade com tecnologia, com ela podemos fazer muitas melhorias no nosso dia a dia e resolver nossos problemas, por isso tenho tentado transformar minha vida com a tecnologia.
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas / Unip 
 
 ## 🚀 Habilidades
