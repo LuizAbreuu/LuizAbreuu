@@ -2,9 +2,18 @@
 
 ## 💼 Perfil Profissional
 
-- 💻 Estudante de Programação( mesmo formado precisamos continuar estudando )
-- 🌱 Tenho aquela afinidade com tecnologia, com ela podemos fazer muitas melhorias no nosso dia a dia e resolver nossos problemas, por isso tenho tentado transformar minha vida com a tecnologia.
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas / Unip
+💻 Desenvolvedor FullStack com foco em .NET, React e Node.js
+
+Experiência no desenvolvimento de APIs REST, aplicações web modernas e sistemas em produção utilizando cloud.
+
+🚀 Stack principal:
+- C#, .NET, ASP.NET Core
+- React, TypeScript
+- Node.js
+- PostgreSQL
+- AWS e Azure
+
+📍 Projetos com deploy real (Railway, Vercel, Supabase)
 
 🚀 Projetos em Produção:
 - Service Desk (FullStack)
