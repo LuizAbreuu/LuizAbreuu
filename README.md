@@ -4,7 +4,11 @@
 
 💻 Desenvolvedor FullStack com foco em .NET, React e Node.js
 
-Experiência no desenvolvimento de APIs REST, aplicações web modernas e sistemas em produção utilizando cloud.
+Desenvolvedor Backend .NET Júnior com experiência no desenvolvimento de APIs REST uƟlizando ASP.NET Core,
+integração de sistemas e modelagem de dados em SQL Server. Conhecimentos práƟcos em JWT, EnƟty Framework,
+Dapper, SOLID e Clean Code. Atuação em ambiente corporaƟvo com foco em estabilidade, integração e evolução
+conơnua das aplicações, além de experiência com projetos próprios publicados em produção. Em constante
+evolução em arquitetura de soŌware, Docker e CI/CD.
 
 🚀 Stack principal:
 - C#, .NET, ASP.NET Core
@@ -18,6 +22,19 @@ Experiência no desenvolvimento de APIs REST, aplicações web modernas e sistem
 🚀 Projetos em Produção:
 - Service Desk (FullStack)
 - Deploy: Railway | Vercel | Supabase
+
+## 💻 Experiência Profissional 
+
+*SOCIEDADE HÍPICA PAULISTA*
+Assistente de TI com atuação em Sistemas e Integrações (04/25 - Atual)
+Atuação em ambiente corporaƟvo com foco em sistemas e integrações, contribuindo para a estabilidade,
+conƟnuidade e evolução das operações internas da Sociedade Hípica Paulista. Experiência em suporte técnico e
+operacional a sistemas corporaƟvos, levantamento e análise de requisitos para melhorias e novas funcionalidades,
+além de apoio em integrações entre sistemas e validação de dados via APIs. Também realiza documentação técnica
+de processos, acompanhamento de fluxos administraƟvos e suporte aos usuários finais, mantendo contato direto
+com regras de negócio e demandas operacionais para garanƟr que as soluções implementadas estejam alinhadas
+às necessidades da empresa. Conhecimento em sistemas legados e arquivos VSAM, com familiaridade em estruturas
+de armazenamento e processamento de dados. 
 
 ## 🚀 Habilidades
 
