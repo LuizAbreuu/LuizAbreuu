@@ -25,7 +25,7 @@ evolução em arquitetura de soŌware, Docker e CI/CD.
 
 ## 💻 Experiência Profissional 
 
-*SOCIEDADE HÍPICA PAULISTA*
+*SOCIEDADE HÍPICA PAULISTA* - 
 Assistente de TI com atuação em Sistemas e Integrações (04/25 - Atual)
 Atuação em ambiente corporaƟvo com foco em sistemas e integrações, contribuindo para a estabilidade,
 conƟnuidade e evolução das operações internas da Sociedade Hípica Paulista. Experiência em suporte técnico e
