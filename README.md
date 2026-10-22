@@ -25,6 +25,19 @@ evolução em arquitetura de software, Docker e CI/CD.
 
 ## 💻 Experiência Profissional 
 
+*LoyaltyCom Marketing e distribuição LTDA – (10/2026 – atual)*
+Atuação como Desenvolvedor Backend na LoyaltyCom, empresa especializada em soluções tecnológicas para programas de fidelização, incentivos e engajamento de clientes.
+Responsável por contribuir para o desenvolvimento, manutenção e evolução de aplicações backend e APIs REST, com foco em performance, segurança, escalabilidade e boas práticas de engenharia de software.
+Principais atividades e responsabilidades:
+•	Desenvolvimento e manutenção de APIs REST e serviços backend, atuando em um ecossistema com aplicações em Java e Node.js, além da possibilidade de desenvolver novas soluções em C#/.NET.
+•	Integração entre sistemas, APIs e serviços externos, garantindo comunicação eficiente entre diferentes aplicações.
+•	Utilização de PostgreSQL como principal banco de dados relacional, com ambientes de produção hospedados no Amazon RDS.
+•	Atuação em ambiente de infraestrutura AWS, com utilização de Amazon EC2 para hospedagem de aplicações e serviços backend.
+•	Análise de requisitos e participação na definição de soluções técnicas, considerando arquitetura, manutenibilidade e escalabilidade.
+•	Identificação e correção de bugs, otimização de consultas e melhoria contínua da performance das aplicações.
+•	Aplicação de princípios de Clean Code, SOLID, versionamento com Git e boas práticas de desenvolvimento.
+
+
 *SOCIEDADE HÍPICA PAULISTA* - 
 Assistente de TI com atuação em Sistemas e Integrações (04/2025 - 10/2026)
 Atuação em ambiente corporativo com foco em sistemas e integrações, contribuindo para a estabilidade,
