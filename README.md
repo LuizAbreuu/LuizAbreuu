@@ -26,6 +26,7 @@ evolução em arquitetura de software, Docker e CI/CD.
 ## 💻 Experiência Profissional 
 
 *LoyaltyCom Marketing e distribuição LTDA – (10/2026 – atual)*
+
 Atuação como Desenvolvedor Backend na LoyaltyCom, empresa especializada em soluções tecnológicas para programas de fidelização, incentivos e engajamento de clientes.
 Responsável por contribuir para o desenvolvimento, manutenção e evolução de aplicações backend e APIs REST, com foco em performance, segurança, escalabilidade e boas práticas de engenharia de software.
 Principais atividades e responsabilidades:
@@ -40,6 +41,7 @@ Principais atividades e responsabilidades:
 
 *SOCIEDADE HÍPICA PAULISTA* - 
 Assistente de TI com atuação em Sistemas e Integrações (04/2025 - 10/2026)
+
 Atuação em ambiente corporativo com foco em sistemas e integrações, contribuindo para a estabilidade,
 continuidade e evolução das operações internas da Sociedade Hípica Paulista. Experiência em suporte técnico e
 operacional a sistemas corporativos, levantamento e análise de requisitos para melhorias e novas funcionalidades,
